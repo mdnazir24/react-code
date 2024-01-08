@@ -1,0 +1,20 @@
+    /* @import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&family=Raleway:ital,wght@0,200;0,400;1,600&display=swap");
+
+    :root{
+        --blue: #007fff;
+    }
+
+    html,
+    body{
+        margin: 0;
+        font-family: "Raleway", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: #f9fafb;
+        line-height: 1.6rem;
+    }
+    @media(max-width: 500px){
+    .products.grid{
+        grid-template-columns: 1fr;
+    }
+} */
